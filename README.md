@@ -1,6 +1,6 @@
 # Reportes-IA-ML
 
 Autores: 
-William A. Ballesteros Cortes
-Lina Duque
-Esteban Lopez
+William A. Ballesteros Cortes <br>
+Lina Duque <br>
+Esteban Lopez <br>
