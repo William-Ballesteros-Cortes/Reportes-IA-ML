@@ -1,3 +1,6 @@
 # Reportes-IA-ML
 
-Autor: William A. Ballesteros Cortes
+Autores: 
+William A. Ballesteros Cortes
+Lina Duque
+Esteban Lopez
